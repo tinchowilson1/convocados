@@ -1,47 +1,77 @@
 export default [
     {
-        name: 'DINNO'
+        id:1,
+        name: 'DINNO',
+        ranking: ''
     },
     {
-        name: 'PTTN'
+        id:2,
+        name: 'PTTN',
+        ranking: ''
     },
     {
-        name: 'SUGUS'
+        id:3,
+        name: 'SUGUS',
+        ranking: ''
     },
     {
-        name: 'NICO'
+        id:4,
+        name: 'NICO',
+        ranking: ''
     }, 
     {
-        name: 'WILSON'
+        id:5,
+        name: 'WILSON',
+        ranking: ''
     }, 
     {
-        name: 'EIGUS'
+        id:6,
+        name: 'EIGUS',
+        ranking: ''
     }, 
     {
-        name: 'GOTSAN'
+        id:7,
+        name: 'GOTSAN',
+        ranking: ''
     }, 
     {
-        name: 'LINCE'
+        id:8,
+        name: 'LINCE',
+        ranking: ''
     }, 
     {
-        name: 'FLAKOKUS'
+        id:9,
+        name: 'FLAKOKUS',
+        ranking: ''
     }, 
     {
-        name: 'MESSI10'
+        id:10,
+        name: 'MESSI10',
+        ranking: ''
     }, 
     {
-        name: 'GUSTAVIUS'
+        id:11,
+        name: 'GUSTAVIUS',
+        ranking: ''
     },
     {
-        name: 'JOHN CONNOR'
+        id:12,
+        name: 'JOHN CONNOR',
+        ranking: ''
     },
     {
-        name: 'CORONEL_SVNDERS'
+        id:13,
+        name: 'CORONEL_SVNDERS',
+        ranking: ''
     },
     {
-        name: 'ABEJA'
+        id:14,
+        name: 'ABEJA',
+        ranking: ''
     },
     {
-        name: 'BASTON DE JADE'
+        id:15,
+        name: 'BASTON DE JADE',
+        ranking: ''
     },
 ];
